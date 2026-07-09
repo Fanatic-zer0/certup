@@ -4,6 +4,12 @@ A handy cert utility working with PEM, X.509 certificates, CSRs, keystores, and 
 
 All cryptographic operations run locally in the app.
 
+
+<img width="1093" height="722" alt="image" src="https://github.com/user-attachments/assets/70e816d5-f46e-40af-970a-4a746697009b" />
+
+
+
+
 ---
 
 ## Features
